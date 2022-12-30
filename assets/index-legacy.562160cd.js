@@ -1,0 +1,1 @@
+System.register(["./index-legacy.7badc616.js"],(function(e,t){"use strict";var n,r,c;return{setters:[e=>{n=e.aJ,r=e.o,c=e.c}],execute:function(){const t={class:"page"};e("default",n({},[["render",function(e,n){return r(),c("div",t)}]]))}}}));
